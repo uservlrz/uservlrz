@@ -1,5 +1,6 @@
 # 👋 Aooba, sou o Davi!
 
+![Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)  
 🎓 **Engenharia da Computação — 6º período na PUC Goiás**  
 💻 Apaixonado por desenvolvimento, IA e novas tecnologias.
 
