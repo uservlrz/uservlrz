@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Davi!
+# 👋 Aooba, sou o Davi!
 
 🎓 **Engenharia da Computação — 6º período na PUC Goiás**  
 💻 Apaixonado por desenvolvimento, IA e novas tecnologias.
