@@ -37,7 +37,6 @@
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uservlrz&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uservlrz&show_icons=true&theme=radical)
 
 ---
 
